@@ -26,6 +26,7 @@ const Home = () => {
       </div>
       {/* Couresel component */}
       <Courosel />
+      {/* this is new */}
     </div>
   );
 };
